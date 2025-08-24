@@ -1,1 +1,1 @@
-This repository contains the materials related to the "AI Systems development"
+This repository contains the solutions of Assignment-1 related to the "AI Systems development"
